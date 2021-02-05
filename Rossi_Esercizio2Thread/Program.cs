@@ -27,6 +27,7 @@ namespace Rossi_Esercizio2Thread
                 thread.Start();
 
             }
+
             Console.ReadLine();
 
         }
