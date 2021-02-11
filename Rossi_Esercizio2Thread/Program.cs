@@ -37,7 +37,7 @@ namespace Rossi_Esercizio2Thread
             {
                 Console.WriteLine($"il corridore {name} ha percorso {i} ");
             }
-            Console.WriteLine($"la gara {name}");
+            Console.WriteLine($"la gara è stata finita da: {name}");
 
         }
 
